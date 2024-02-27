@@ -20,4 +20,6 @@ int main()
     {
         printf("parent\n");
     }
+
+    return 0;
 }
